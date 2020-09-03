@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on <a href="http://axelhellberg.se/">axelhellberg.se</a>
+
+🌱 I’m currently learning web development.
 
 <!--
 **axelhellberg/axelhellberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
